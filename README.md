@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/byhelaman/stats-preview-card-component
-- Live Site URL: 
+- Live Site URL: https://keen-davinci-a7df54.netlify.app
 
 ## My process
 
